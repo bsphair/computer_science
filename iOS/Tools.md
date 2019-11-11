@@ -1,8 +1,8 @@
 # Tools
 
 ## Hex to UIColor Generator 
-[https://www.uicolor.xyz/#/hex-to-ui](uicolor)
+[UIColor](https://www.uicolor.xyz/#/hex-to-ui)
 
 ## PNG Compression
 
-[https://www.websiteplanet.com/webtools/imagecompressor/](websiteplanet)
+[websiteplanet.com](https://www.websiteplanet.com/webtools/imagecompressor/)
