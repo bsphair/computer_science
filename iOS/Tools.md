@@ -10,3 +10,7 @@
 ## App Previews
 
 [APP Launch Pad](https://theapplaunchpad.com)
+
+## App Store Promotion
+
+This [link](https://developer.apple.com//contact/app-store/promote/) is for writing to Apple to submit app for Today.
