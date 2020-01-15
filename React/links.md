@@ -1,4 +1,4 @@
-# Links for React/JavaScript
+# Links for React/Javascript
 
 ### Conditional Rendering
 
