@@ -37,4 +37,5 @@ https://frontendmasters.com/books/front-end-handbook/2019/#6.1
 
 ## CSS
 
-[https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align] (https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+[Deep dive CSS: font metrics, line-height and vertical-align
+] (https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
