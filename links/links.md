@@ -38,3 +38,12 @@ https://frontendmasters.com/books/front-end-handbook/2019/#6.1
 ## CSS
 
 [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+
+## Project Size
+
+To count the lines of code in a project:
+
+```javascript
+$ git ls-files | xargs wc -l
+```
+[Source](https://gist.github.com/mandiwise/dc53cb9da00856d7cdbb)
