@@ -30,7 +30,7 @@ https://frontendmasters.com/books/front-end-handbook/2019/#6.1
 [https://www.designworkplan.com/read/signage-and-color-contrast](https://www.designworkplan.com/read/signage-and-color-contrast)
 
 ### One-line CSS
-https://web.dev/one-line-layouts/
+[https://web.dev/one-line-layouts/](https://web.dev/one-line-layouts/)
 
 ## Fonts for IDE
 
