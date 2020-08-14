@@ -21,3 +21,6 @@
 
 [https://dev.to/ruiclarateixeira/hoverable-component-with-render-props-327a](https://dev.to/ruiclarateixeira/hoverable-component-with-render-props-327a)
 
+### Patterns for Data Fetching
+
+[https://blog.logrocket.com/patterns-for-data-fetching-in-react-981ced7e5c56/](https://blog.logrocket.com/patterns-for-data-fetching-in-react-981ced7e5c56/)
