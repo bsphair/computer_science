@@ -12,3 +12,7 @@
 ### React Conf 2019
 
 [conf.reactjs.org](https://conf.reactjs.org/event.html?leeb)
+
+### Table Design
+
+[https://medium.com/nextux/design-better-data-tables-4ecc99d23356](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
