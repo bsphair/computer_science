@@ -50,3 +50,13 @@ To count the lines of code in a project:
 $ git ls-files | xargs wc -l
 ```
 [Source](https://gist.github.com/mandiwise/dc53cb9da00856d7cdbb)
+
+## Webpack
+
+### Webpack bundler
+
+[https://www.npmjs.com/package/webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer)
+
+## Closure Compiler
+
+[https://github.com/google/closure-compiler](https://github.com/google/closure-compiler)
