@@ -21,3 +21,31 @@ alias gitfetch='git fetch --all'
 alias gitfetchpull='git fetch --all; git pull origin master'
 alias ll='ls -l'
 ```
+
+## List Ports
+
+```bash
+$ sudo lsof -i -P -n | grep LISTEN
+```
+
+## Kill Process
+
+```bash
+$ sudo kill <process id>
+```
+
+[davidokwii.com/kill-process-running-under-certain-port/](davidokwii.com/kill-process-running-under-certain-port/)
+
+
+## Prevent Chrome from Autoupdating
+
+```bash
+$ sudo chmod -R 000 ~/Library/Google
+```
+
+## Allow Chrome to Autoupdate
+
+```bash
+$ sudo chmod -R 755 ~/Library/Google
+```
+
