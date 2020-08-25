@@ -60,3 +60,6 @@ $ git ls-files | xargs wc -l
 ## Closure Compiler
 
 [https://github.com/google/closure-compiler](https://github.com/google/closure-compiler)
+
+## Icons
+[https://simpleicons.org/?q=aws](https://simpleicons.org/?q=aws)
