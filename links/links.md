@@ -63,3 +63,7 @@ $ git ls-files | xargs wc -l
 
 ## Icons
 [https://simpleicons.org/?q=aws](https://simpleicons.org/?q=aws)
+
+## Shell
+ZSH Shell color updates
+[https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/](https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/)
